@@ -1,0 +1,3 @@
+[submodule "plugins/redmine_team"]
+	path = plugins/redmine_team
+	url = git@github.com:akumpera/redmine_team.git
