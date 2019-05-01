@@ -1,6 +1,6 @@
-[submodule "plugins/redmine_team"]
-	path = plugins/redmine_team
-	url = git@github.com:akumpera/redmine_team.git
 [submodule "public/themes/circle"]
 	path = public/themes/circle
 	url = git@github.com:akumpera/circle.git
+[submodule "plugins/redmine_agile"]
+	path = plugins/redmine_agile
+	url = git@github.com:akumpera/redmine_agile.git
